@@ -1,8 +1,8 @@
 Tests passing:
-[![Python Testing](https://github.com/CDT-AIMLAC/pl_curves/actions/workflows/main.yml/badge.svg)](https://github.com/CDT-AIMLAC/pl_curves/actions/workflows/main.yml)
+[![Python Testing](https://github.com/DiaaEddinH/pl_curves/actions/workflows/main.yml/badge.svg)](https://github.com/DiaaEddinH/pl_curves/actions/workflows/main.yml)
 
 Code coverage: 
-[![codecov](https://codecov.io/gh/CDT-AIMLAC/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/CDT-AIMLAC/pl_curves)
+[![codecov](https://codecov.io/gh/DiaaEddinH/pl_curves/graph/badge.svg?token=XUFTEY8YCF)](https://codecov.io/gh/DiaaEddinH/pl_curves)
 
 # Introduction
 
@@ -83,3 +83,4 @@ This software is automatically tested by Github Actions after each build. Its cu
 [![Build Status](https://github.com/colinsauze/pl_curves/actions/workflows/main.yml/badge.svg)](https://github.com/colinsauze/pl_curves/actions/workflows/main.yml)
 
 [![codecov](https://codecov.io/gh/colinsauze/pl_curves/branch/master/graph/badge.svg)](https://codecov.io/gh/colinsauze/pl_curves)
+
